@@ -1,0 +1,20 @@
+[
+  {
+    "document_id": "POL-RETENTION",
+    "category": "Privacy and security",
+    "question": "What information is available about account data retention?",
+    "answer": "Contact support from your verified account for information about retention applicable to your request. This demo knowledge base does not define a universal retention period.",
+    "source_document": "Privacy Request Policy",
+    "access_classification": "public",
+    "last_updated": "2026-03-10"
+  },
+  {
+    "document_id": "POL-INTERNAL-DEMO",
+    "category": "Internal operations",
+    "question": "Internal escalation procedure",
+    "answer": "Fictional internal-only escalation record for access-control testing.",
+    "source_document": "Internal Test Policy",
+    "access_classification": "confidential",
+    "last_updated": "2026-03-10"
+  }
+]
